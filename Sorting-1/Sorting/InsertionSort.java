@@ -1,4 +1,9 @@
-public void insertionSort(int arr[], int n)
+
+
+public class InsertionSort {
+    
+
+public void InsertionSort(int arr[], int n)
 {
     //code here
     // Time Complexity:O(n^2)
@@ -11,4 +16,5 @@ public void insertionSort(int arr[], int n)
             j--;
         }
     }
+}
 }
