@@ -19,7 +19,7 @@ This folder contains Java solutions for various **Array problems** as listed in 
 - Prefix Sum, Sliding Window, Kadane’s Algorithm, and more.
 
 - ## 👨‍💻 **Contents** 👀
-- [Lec 1: BS on 1D Arrays](https://github.com/Sravan2808/StriverDSA/tree/main/BinarySearch/BSon1DArrays}
+- [Lec 1: BS on 1D Arrays](https://github.com/Sravan2808/StriverDSA/tree/2e0b6905d275712ca0ad18e365389e858085dd03/BinarySearch/BSon1DArrays)}
 
 ## Resources:
 - [Striver A2Z DSA Sheet](https://takeuforward.org)
