@@ -20,7 +20,7 @@ This folder contains Java solutions for various **Array problems** as listed in 
 
 - ## 👨‍💻 **Contents** 👀
 - [Lec 1: Sorting-I](https://github.com/Sravan2808/StriverDSA/tree/ac35a87dd80bc9ad5537e014cc23253b60bb7806/Sorting-1)
-- [Lec 1: BS on 1D Arrays](https://github.com/Sravan2808/StriverDSA/tree/2e0b6905d275712ca0ad18e365389e858085dd03/BinarySearch/BSon1DArrays)}
+- [Lec 1: BS on 1D Arrays](https://github.com/Sravan2808/StriverDSA/tree/2e0b6905d275712ca0ad18e365389e858085dd03/BinarySearch/BSon1DArrays)
 
 ## Resources:
 - [Striver A2Z DSA Sheet](https://takeuforward.org)
