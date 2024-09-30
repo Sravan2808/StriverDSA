@@ -1,6 +1,10 @@
 class floorSqrt {
     long floorSqrt(long n) {
         // Your code here
+               // inbuilt function in java
+    //     double x = Math.sqrt(n);
+    //     return (long)x;
+    // }
     //     // // TC:O(n),SC:O(1)
     // int ans = -1;
     // for(int i=1;i<=n;i++){
