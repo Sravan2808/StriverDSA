@@ -21,6 +21,7 @@ public class singleNonDuplicate {
         // }
         // return -1;
         
+        
         // OptimalApproach TC:O(logn)
         int n = nums.length;
          // If length is 1 then nums[0]
@@ -48,5 +49,5 @@ public class singleNonDuplicate {
        }
        return -1;
     } 
-    
+    // 
 }
