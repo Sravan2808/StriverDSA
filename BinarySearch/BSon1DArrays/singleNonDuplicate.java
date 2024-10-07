@@ -47,6 +47,6 @@ public class singleNonDuplicate {
         }
        }
        return -1;
-    }
+    } 
     
 }
