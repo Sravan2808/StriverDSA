@@ -31,7 +31,7 @@ public class middleLL {
         // }
         // return temp;
 
-        // Optimal Approach
+        // Optimal Approach 
         ListNode slowPtr = head;
         ListNode fastPtr = head;
 
