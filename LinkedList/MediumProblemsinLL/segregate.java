@@ -12,7 +12,7 @@ class Node
 }
 */
 class Solution {
-    // Function to sort a linked list of 0s, 1s and 2s.
+    // Function to sort a linked list of 0s, 1s and 2s. 
     static Node segregate(Node head) {
         // add your code here
         // BruteForce TC:O(2N) SC:O(1)
