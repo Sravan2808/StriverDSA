@@ -20,5 +20,4 @@ public class combine {
         backtrack(result , new ArrayList<>() ,1,n,k);
         return result;
     }
-    
 }
