@@ -31,7 +31,6 @@ public class singleNumber2 {
         // }
         // return nums[nums.length-1];
 
-        
         // 4.Buckets Approach TC:O(N) SC:O(1)
         int ones = 0,twos=0;
         for(int i=0;i<nums.length;i++){
