@@ -21,7 +21,7 @@ class iterativePreOrderTraversal {
       
        List<Integer> preOrder = new ArrayList<>();
        if(root == null) return preOrder;
-       Stack<TreeNode> st = new Stack<>();
+        Stack<TreeNode> st = new Stack<>();
        
        st.push(root);
        while(!st.isEmpty()){
